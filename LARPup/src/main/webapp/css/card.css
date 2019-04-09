@@ -1,0 +1,50 @@
+.cardEvent {
+	height: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cardStory {
+	height: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cardRole {
+	height: 300px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cardRoleExp {
+	height: 450px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.cardDescription {
+	height: 100px;
+	overflow: scroll;
+	font-size: small;
+	text-indent: 25px;
+}
+
+.cardRoleSmall {
+	height: 50px;
+	overflow: scroll;
+	font-size: small;
+	text-indent: 25px;
+}
+
+.cardDetail {
+	font-size: small;
+}
+
+.centerContent {
+	align-content: center;
+	text-align: center;
+}
+
+.space {
+	margin: 10px;
+}

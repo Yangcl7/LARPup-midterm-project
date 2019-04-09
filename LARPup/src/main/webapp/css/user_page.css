@@ -1,0 +1,56 @@
+body {
+	background-color: white;
+}
+
+h5 {
+	color:red
+}
+
+.header {
+	border-top: thin solid #dcdada;
+	background-color: #f5f6f7;
+}
+
+.userPic, .userDetails {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 850px;
+	padding: 30px;
+	position: relative;
+}
+
+#nav-tab {
+	justify-content: center
+}
+
+.userDetails {
+	padding: 50px;
+}
+
+.dropdown-menu.show {
+	width: 300%;
+}
+
+.userDetails label {
+	font-weight: bold;
+}
+
+.right-margin {
+	margin-right:30px;
+}
+/* .insetshadow h1 {
+  font-size: 5em;
+  color: #dcdada;
+  letter-spacing: .1em;
+  text-shadow: 
+    -1px -1px 1px #111, 
+    2px 2px 1px #363636;
+} */
+.insetshadow h1 {
+	color: #2c2c2c;
+	font-size: 5em;
+	letter-spacing: .05em;
+	text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+}

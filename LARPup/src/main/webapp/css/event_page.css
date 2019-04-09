@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.eventTitleFormat {
+	text-align: center;
+}
+
+.eventDescFormat {
+	text-indent: 50px;
+	font-style: italic;
+}
+
+.eventLocationFormat {
+	text-align: center;
+}
